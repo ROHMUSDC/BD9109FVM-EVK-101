@@ -1,0 +1,130 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.3.0 p002Feb-06-2014 at 12:05:26 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='BD9109FVMEVK-101_SCH_REV00_2013-11-22';
+ POST_TIME='May 16 2011 13:50:11';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_VER_CER_1210_10UF_16V_10%_C':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62520936@MYLIBRARY_22AUG13.CAP_VER_CER_1210_10UF_16V_10%.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62520936@mylibrary_22aug13.\cap_ver_cer_1210_10uf_16v_10%.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62520936@mylibrary_22aug13.\cap_ver_cer_1210_10uf_16v_10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_VER_CER_1210_10UF_16V_10%_C':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62522441@MYLIBRARY_22AUG13.CAP_VER_CER_1210_10UF_16V_10%.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62522441@mylibrary_22aug13.\cap_ver_cer_1210_10uf_16v_10%.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62522441@mylibrary_22aug13.\cap_ver_cer_1210_10uf_16v_10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_VER_CER_0603_330PF_50V_10%_':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521068@MYLIBRARY_22AUG13.CAP_VER_CER_0603_330PF_50V_10%.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521068@mylibrary_22aug13.\cap_ver_cer_0603_330pf_50v_10%.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521068@mylibrary_22aug13.\cap_ver_cer_0603_330pf_50v_10%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_TVS_5.8V_400W_DO-214AC_P4':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62523288@ROHM_BU90002GWZ_EVAL_LIB.DIODE_TVS_5.8V_400W.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62523288@rohm_bu90002gwz_eval_lib.\diode_tvs_5.8v_400w.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62523288@rohm_bu90002gwz_eval_lib.\diode_tvs_5.8v_400w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CONN PCB 3X1_.100"_HDR_THVT_1X3':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521902@MYLIBRARY_28AUG13.CONN PCB 3X1_.100".NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521902@mylibrary_28aug13.(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521902@mylibrary_28aug13.(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'IND_SMT_4P5X4P7_SMT_4P5X4P7_4.7':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521997@MYLIBRARY_22AUG13.IND_SMT_4P5X4P7.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521997@mylibrary_22aug13.\ind_smt_4p5x4p7.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521997@mylibrary_22aug13.\ind_smt_4p5x4p7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_VER_0805_30K_1/8W_1%_R0603_30':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521109@MYLIBRARY_22AUG13.R_VER_0805_30K_1/8W_1%.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521109@mylibrary_22aug13.\r_ver_0805_30k_1/8w_1%.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521109@mylibrary_22aug13.\r_ver_0805_30k_1/8w_1%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TP_50MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521646@MYLIBRARY_28AUG13.TP_50MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521646@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521646@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP_50MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521678@MYLIBRARY_28AUG13.TP_50MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521678@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521678@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TP_50MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521700@MYLIBRARY_28AUG13.TP_50MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521700@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521700@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TP_50MIL_TH_TP_TH_TP_63MIL_TH':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62521799@MYLIBRARY_28AUG13.TP_50MIL_TH.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62521799@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62521799@mylibrary_28aug13.\tp_50mil_th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'IC_BD9109FVM_MSOP8_MSOP8_BD9109':;
+
+SECTION_NUMBER 1
+ '@BD9109FVMEVK-101_SCH_REV00_2013-11-22.SCHEMATIC1(SCH_1):INS62522193@MYLIBRARY_22AUG13.IC_BD9109FVM_MSOP8.NORMAL(CHIPS)':
+ C_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):ins62522193@mylibrary_22aug13.\ic_bd9109fvm_msop8.normal\(chips)',
+ P_PATH='@\bd9109fvmevk-101_sch_rev00_2013-11-22\.schematic1(sch_1):page3_ins62522193@mylibrary_22aug13.\ic_bd9109fvm_msop8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,141 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.3.0 p002Feb-06-2014 at 12:05:26}
+primitive 'CAP_VER_CER_1210_10UF_16V_10%_C';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP_VER_CER_1210_10UF_16V_10%';
+    JEDEC_TYPE='C1206';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'CAP_VER_CER_0603_330PF_50V_10%_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP_VER_CER_0603_330PF_50V_10%';
+    JEDEC_TYPE='C0603';
+    VALUE='330pF';
+  end_body;
+end_primitive;
+primitive 'DIODE_TVS_5.8V_400W_DO-214AC_P4';
+  pin
+    'C':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE_TVS_5.8V_400W';
+    JEDEC_TYPE='DO-214AC';
+    VALUE='P4SMA6.8A';
+  end_body;
+end_primitive;
+primitive 'CONN PCB 3X1_.100"_HDR_THVT_1X3';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN PCB 3x1_.100"';
+    JEDEC_TYPE='HDR_THVT_1X3_100';
+    VALUE='87224-3';
+  end_body;
+end_primitive;
+primitive 'IND_SMT_4P5X4P7_SMT_4P5X4P7_4.7';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='IND_SMT_4P5X4P7';
+    JEDEC_TYPE='SMT_4P5X4P7';
+    VALUE='4.7uH';
+  end_body;
+end_primitive;
+primitive 'R_VER_0805_30K_1/8W_1%_R0603_30';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R_VER_0805_30K_1/8W_1%';
+    JEDEC_TYPE='R0603';
+    VALUE='30K';
+  end_body;
+end_primitive;
+primitive 'TP_50MIL_TH_TP_TH_TP_63MIL_TH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TP_50Mil_TH';
+    JEDEC_TYPE='TP_TH';
+    VALUE='TP_63Mil_TH';
+  end_body;
+end_primitive;
+primitive 'IC_BD9109FVM_MSOP8_MSOP8_BD9109';
+  pin
+    'VOUT/ADJ':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'ITH':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'EN':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'SW':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+    'PVCC':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'PGND':
+      PIN_NUMBER='(5)';
+      PINUSE='POWER';
+    'VCC':
+      PIN_NUMBER='(8)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='IC_BD9109FVM_MSOP8';
+    JEDEC_TYPE='MSOP8';
+    VALUE='BD9109FVM-TR';
+  end_body;
+end_primitive;
+END.
