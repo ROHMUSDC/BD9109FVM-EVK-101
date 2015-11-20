@@ -13,8 +13,7 @@
 
 ----
 ### Where to Purchase?
-* Digikey: http://www.digikey.com/product-search/en/programmers-development-systems/evaluation-boards-dc-dc-ac-dc-off-line-smps/2622539?k=BD9109 
-* Mouser: http://www.mouser.com/ProductDetail/ROHM-Semiconductor/BD9109FVMEVK-101/?qs=%2fha2pyFadujnM%252bVr65V%252bf4bLsoG8RfqbFwrT%252bLussolQYcgDpx6Mtw%3d%3d 
+* http://www.rohm.com/web/global/distribution/-/dinventory/BD9109FVM-EVK-101/sample/0 
 
 ----
 ### DISCLAIMER
